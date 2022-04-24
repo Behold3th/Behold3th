@@ -1,6 +1,6 @@
 Hey everyone, 
 I'm @Behold3th. I believe in decentralized, asynchronous, and autonomous consensus. 
-Current work: Dev Guild @ BanklessDAO
+Current work: Bounty Board @ BanklessDAO & First Quests @ BanklessDAO
 
 
 <!---
